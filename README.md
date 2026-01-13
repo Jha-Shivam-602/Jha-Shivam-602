@@ -5,6 +5,5 @@
     <img src="https://media.giphy.com/media/jQW9MbdVjVAmn9dLJW/giphy.gif" width="150" alt="Servers and Infrastructure" />
     <img src="https://media.giphy.com/media/gkLiJTXeP2GHqTwlkx/giphy.gif" width="150" alt="Cloud and Deployment" />
     <img src="https://media.giphy.com/media/YpeZsbXxEfBAKyBojd/giphy.gif" width="150" alt="Frontend and UI" />
-    <img src="https://media.giphy.com/media/KfZpwjAxuuWQbE8JDW/giphy.gif" width="150" alt="Collaboration and DevOps" />
   </div>
 </div>
