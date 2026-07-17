@@ -15,7 +15,6 @@ W𝘪𝘵𝘩 𝘢 𝘴𝘵𝘳𝘰𝘯𝘨 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵 �
     </td>
     <td align="left">
       <ul>
-        <li><a href="https://leetcode.com/u/SegTree_/">LeetCode</a></li>
         <li><a href="https://www.linkedin.com/in/shivamjha01/">LinkedIn</a></li>
       </ul>
     </td>
