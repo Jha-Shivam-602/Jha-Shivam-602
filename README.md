@@ -11,13 +11,7 @@
   <img src="https://skillicons.dev/icons?i=py,cpp,mysql,pytorch,tensorflow,sklearn,opencv,fastapi,docker,kubernetes,git,github,aws,linux&perline=14" />
 </p>
 
-## 𝓢𝓽𝓪𝓽𝓼 𝓪𝓷𝓭 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 ✨
-
-<p align="center">
-  <a href="https://github.com/Jha-Shivam-602">
-    <img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="10%">
-  </a>
-</p>
+## 𝓢𝓽𝓪𝓽𝓼 𝓪𝓷𝓭 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂 
 
 <table align="center">
   <tr>
